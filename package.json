@@ -1,5 +1,5 @@
 {
-  "name": "@mapbox/node-pre-gyp",
+  "name": "@xprofiler/node-pre-gyp",
   "description": "Node.js native addon binary install tool",
   "version": "1.0.8",
   "keywords": [
@@ -24,6 +24,7 @@
     "https-proxy-agent": "^5.0.0",
     "make-dir": "^3.1.0",
     "node-fetch": "^2.6.5",
+    "node-gyp": "^8.4.1",
     "nopt": "^5.0.0",
     "npmlog": "^5.0.1",
     "rimraf": "^3.0.2",
